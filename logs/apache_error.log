@@ -1,0 +1,226 @@
+[Wed Mar 07 10:50:52 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Mar 07 10:50:53 2018] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 07 10:50:53 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Mar 07 10:50:53 2018] [notice] Digest: done
+[Wed Mar 07 10:51:00 2018] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2e mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.1.7 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Wed Mar 07 10:51:00 2018] [notice] Server built: May  6 2016 10:19:53
+[Wed Mar 07 10:51:01 2018] [notice] Parent: Created child process 9820
+[Wed Mar 07 10:51:04 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Mar 07 10:51:05 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Mar 07 10:51:05 2018] [notice] Digest: done
+[Wed Mar 07 10:51:06 2018] [notice] Child 9820: Child process is running
+[Wed Mar 07 10:51:09 2018] [notice] Child 9820: Acquired the start mutex.
+[Wed Mar 07 10:51:09 2018] [notice] Child 9820: Starting 64 worker threads.
+[Wed Mar 07 10:51:09 2018] [notice] Child 9820: Starting thread to listen on port 80.
+[Wed Mar 07 10:52:54 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/docs-assets, referer: http://localhost/MAMP/
+[Wed Mar 07 10:52:54 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/docs-assets, referer: http://localhost/MAMP/
+[Wed Mar 07 10:53:43 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Mar 07 10:53:44 2018] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 07 10:53:44 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Mar 07 10:53:44 2018] [notice] Digest: done
+[Wed Mar 07 10:53:45 2018] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2e mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.1.7 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Wed Mar 07 10:53:45 2018] [notice] Server built: May  6 2016 10:19:53
+[Wed Mar 07 10:53:45 2018] [notice] Parent: Created child process 5732
+[Wed Mar 07 10:53:45 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Mar 07 10:53:46 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Mar 07 10:53:46 2018] [notice] Digest: done
+[Wed Mar 07 10:53:50 2018] [notice] Child 5732: Child process is running
+[Wed Mar 07 10:53:50 2018] [notice] Child 5732: Acquired the start mutex.
+[Wed Mar 07 10:53:50 2018] [notice] Child 5732: Starting 64 worker threads.
+[Wed Mar 07 10:53:50 2018] [notice] Child 5732: Starting thread to listen on port 80.
+[Wed Mar 07 10:58:37 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/setup-config.php
+[Wed Mar 07 13:34:25 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%2Fatw%2Fwp-admin%2F&reauth=1
+[Wed Mar 07 15:39:00 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/docs-assets, referer: http://localhost/MAMP/
+[Wed Mar 07 16:56:20 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/nav-menus.php?menu=2
+[Thu Mar 08 11:11:11 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Mar 08 11:11:12 2018] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 08 11:11:12 2018] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 08 11:11:12 2018] [notice] Digest: done
+[Thu Mar 08 11:11:15 2018] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2e mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.1.7 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Thu Mar 08 11:11:15 2018] [notice] Server built: May  6 2016 10:19:53
+[Thu Mar 08 11:11:15 2018] [notice] Parent: Created child process 7468
+[Thu Mar 08 11:11:15 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Mar 08 11:11:16 2018] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 08 11:11:16 2018] [notice] Digest: done
+[Thu Mar 08 11:11:17 2018] [notice] Child 7468: Child process is running
+[Thu Mar 08 11:11:20 2018] [notice] Child 7468: Acquired the start mutex.
+[Thu Mar 08 11:11:20 2018] [notice] Child 7468: Starting 64 worker threads.
+[Thu Mar 08 11:11:20 2018] [notice] Child 7468: Starting thread to listen on port 80.
+[Thu Mar 08 11:22:02 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%2Fatw%2Fwp-admin%2F&reauth=1
+[Thu Mar 08 11:29:59 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/post.php?post=14&action=edit
+[Thu Mar 08 11:33:09 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/post.php?post=16&action=edit
+[Thu Mar 08 11:45:27 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/post.php?post=16&action=edit
+[Thu Mar 08 14:00:05 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/post.php?post=16&action=edit
+[Thu Mar 08 14:28:02 2018] [error] [client 192.168.1.9] File does not exist: C:/MAMP/htdocs/HNAP1
+[Thu Mar 08 14:28:45 2018] [error] [client 192.168.1.9] File does not exist: C:/MAMP/htdocs/language
+[Thu Mar 08 14:28:45 2018] [error] [client 192.168.1.9] File does not exist: C:/MAMP/htdocs/language
+[Thu Mar 08 14:28:45 2018] [error] [client 192.168.1.9] File does not exist: C:/MAMP/htdocs/system.ini
+[Thu Mar 08 14:55:26 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/edit.php?post_type=acf
+[Thu Mar 08 17:08:21 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/plugin-install.php
+[Fri Mar 09 09:09:09 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Mar 09 09:09:10 2018] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 09 09:09:10 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 09 09:09:10 2018] [notice] Digest: done
+[Fri Mar 09 09:09:12 2018] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2e mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.1.7 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Fri Mar 09 09:09:12 2018] [notice] Server built: May  6 2016 10:19:53
+[Fri Mar 09 09:09:12 2018] [notice] Parent: Created child process 2460
+[Fri Mar 09 09:09:13 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Mar 09 09:09:14 2018] [notice] Digest: generating secret for digest authentication ...
+[Fri Mar 09 09:09:14 2018] [notice] Digest: done
+[Fri Mar 09 09:09:15 2018] [notice] Child 2460: Child process is running
+[Fri Mar 09 09:09:17 2018] [notice] Child 2460: Acquired the start mutex.
+[Fri Mar 09 09:09:17 2018] [notice] Child 2460: Starting 64 worker threads.
+[Fri Mar 09 09:09:17 2018] [notice] Child 2460: Starting thread to listen on port 80.
+[Fri Mar 09 09:15:41 2018] [error] [client 192.168.1.9] File does not exist: C:/MAMP/htdocs/HNAP1
+[Fri Mar 09 09:16:30 2018] [error] [client 192.168.1.9] File does not exist: C:/MAMP/htdocs/language
+[Fri Mar 09 09:16:30 2018] [error] [client 192.168.1.9] File does not exist: C:/MAMP/htdocs/language
+[Fri Mar 09 09:16:30 2018] [error] [client 192.168.1.9] File does not exist: C:/MAMP/htdocs/system.ini
+[Fri Mar 09 13:12:23 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%2Fatw%2Fwp-admin%2F&reauth=1
+[Fri Mar 09 15:43:07 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/post.php?post=18&action=edit
+[Fri Mar 09 15:44:56 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/edit.php?post_type=our_tours
+[Fri Mar 09 17:22:08 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/edit.php?post_type=our_tours
+[Fri Mar 09 17:32:15 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/edit.php?post_type=our_tours
+[Mon Mar 12 09:29:27 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 12 09:29:28 2018] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 12 09:29:28 2018] [notice] Digest: generating secret for digest authentication ...
+[Mon Mar 12 09:29:28 2018] [notice] Digest: done
+[Mon Mar 12 09:29:31 2018] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2e mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.1.7 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Mon Mar 12 09:29:31 2018] [notice] Server built: May  6 2016 10:19:53
+[Mon Mar 12 09:29:31 2018] [notice] Parent: Created child process 5772
+[Mon Mar 12 09:29:32 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 12 09:29:33 2018] [notice] Digest: generating secret for digest authentication ...
+[Mon Mar 12 09:29:33 2018] [notice] Digest: done
+[Mon Mar 12 09:29:37 2018] [notice] Child 5772: Child process is running
+[Mon Mar 12 09:29:39 2018] [notice] Child 5772: Acquired the start mutex.
+[Mon Mar 12 09:29:39 2018] [notice] Child 5772: Starting 64 worker threads.
+[Mon Mar 12 09:29:39 2018] [notice] Child 5772: Starting thread to listen on port 80.
+[Mon Mar 12 09:40:43 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 12 09:40:44 2018] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 12 09:40:44 2018] [notice] Digest: generating secret for digest authentication ...
+[Mon Mar 12 09:40:44 2018] [notice] Digest: done
+[Mon Mar 12 09:40:46 2018] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2e mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.1.7 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Mon Mar 12 09:40:46 2018] [notice] Server built: May  6 2016 10:19:53
+[Mon Mar 12 09:40:46 2018] [notice] Parent: Created child process 4948
+[Mon Mar 12 09:40:47 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 12 09:40:48 2018] [notice] Digest: generating secret for digest authentication ...
+[Mon Mar 12 09:40:48 2018] [notice] Digest: done
+[Mon Mar 12 09:40:49 2018] [notice] Child 4948: Child process is running
+[Mon Mar 12 09:40:51 2018] [notice] Child 4948: Acquired the start mutex.
+[Mon Mar 12 09:40:51 2018] [notice] Child 4948: Starting 64 worker threads.
+[Mon Mar 12 09:40:51 2018] [notice] Child 4948: Starting thread to listen on port 80.
+[Mon Mar 12 09:41:29 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/
+[Mon Mar 12 09:42:56 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 12 09:42:57 2018] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 12 09:42:57 2018] [notice] Digest: generating secret for digest authentication ...
+[Mon Mar 12 09:42:57 2018] [notice] Digest: done
+[Mon Mar 12 09:42:58 2018] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2e mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.1.7 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Mon Mar 12 09:42:58 2018] [notice] Server built: May  6 2016 10:19:53
+[Mon Mar 12 09:42:58 2018] [notice] Parent: Created child process 9728
+[Mon Mar 12 09:42:58 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Mar 12 09:42:59 2018] [notice] Digest: generating secret for digest authentication ...
+[Mon Mar 12 09:42:59 2018] [notice] Digest: done
+[Mon Mar 12 09:43:00 2018] [notice] Child 9728: Child process is running
+[Mon Mar 12 09:43:00 2018] [notice] Child 9728: Acquired the start mutex.
+[Mon Mar 12 09:43:00 2018] [notice] Child 9728: Starting 64 worker threads.
+[Mon Mar 12 09:43:00 2018] [notice] Child 9728: Starting thread to listen on port 80.
+[Mon Mar 12 10:15:33 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%2Fatw%2Fwp-admin%2F&reauth=1
+[Mon Mar 12 10:31:57 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/tools.php
+[Mon Mar 12 11:27:24 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/tools.php?page=regenerate-thumbnails
+[Mon Mar 12 11:36:13 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/tours/
+[Mon Mar 12 11:48:08 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/edit.php?post_type=our_tours
+[Mon Mar 12 11:57:05 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/edit.php?post_type=our_tours
+[Mon Mar 12 13:24:34 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/edit.php?post_type=our_tours
+[Mon Mar 12 14:12:37 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/edit.php?post_type=acf
+[Mon Mar 12 14:15:14 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/edit.php?post_type=our_tours
+[Mon Mar 12 16:21:20 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/
+[Mon Mar 12 16:48:56 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/post.php?post=43&action=edit
+[Mon Mar 12 16:49:29 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/post.php?post=43&action=edit
+[Mon Mar 12 16:50:17 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/post.php?post=43&action=edit
+[Mon Mar 12 17:14:49 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/edit.php?post_type=our_tours
+[Mon Mar 12 17:20:20 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/post.php?post=61&action=edit
+[Tue Mar 13 09:14:01 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Mar 13 09:14:02 2018] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 13 09:14:02 2018] [notice] Digest: generating secret for digest authentication ...
+[Tue Mar 13 09:14:02 2018] [notice] Digest: done
+[Tue Mar 13 09:14:04 2018] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2e mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.1.7 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Tue Mar 13 09:14:04 2018] [notice] Server built: May  6 2016 10:19:53
+[Tue Mar 13 09:14:04 2018] [notice] Parent: Created child process 8200
+[Tue Mar 13 09:14:05 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Mar 13 09:14:06 2018] [notice] Digest: generating secret for digest authentication ...
+[Tue Mar 13 09:14:06 2018] [notice] Digest: done
+[Tue Mar 13 09:14:07 2018] [notice] Child 8200: Child process is running
+[Tue Mar 13 09:14:08 2018] [notice] Child 8200: Acquired the start mutex.
+[Tue Mar 13 09:14:08 2018] [notice] Child 8200: Starting 64 worker threads.
+[Tue Mar 13 09:14:08 2018] [notice] Child 8200: Starting thread to listen on port 80.
+[Tue Mar 13 09:43:46 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/nonexistent, referer: http://www.nosteam.ro/
+[Tue Mar 13 09:46:44 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/
+[Tue Mar 13 10:51:58 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/post.php?post=20&action=edit
+[Tue Mar 13 10:53:15 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/testimonials/
+[Tue Mar 13 11:01:24 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/post.php?post=20&action=edit
+[Tue Mar 13 11:35:02 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/admin.php?page=cptui_manage_post_types
+[Tue Mar 13 13:12:02 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/edit.php?post_type=our_testimonial
+[Tue Mar 13 13:15:12 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/admin.php?page=cptui_manage_post_types
+[Tue Mar 13 14:20:17 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/edit.php?post_type=page
+[Tue Mar 13 15:47:42 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/edit.php
+[Wed Mar 14 09:13:46 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Mar 14 09:13:47 2018] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 14 09:13:47 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Mar 14 09:13:47 2018] [notice] Digest: done
+[Wed Mar 14 09:13:54 2018] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2e mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.1.7 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Wed Mar 14 09:13:54 2018] [notice] Server built: May  6 2016 10:19:53
+[Wed Mar 14 09:13:54 2018] [notice] Parent: Created child process 688
+[Wed Mar 14 09:13:57 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Mar 14 09:13:58 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Mar 14 09:13:58 2018] [notice] Digest: done
+[Wed Mar 14 09:13:59 2018] [notice] Child 688: Child process is running
+[Wed Mar 14 09:14:03 2018] [notice] Child 688: Acquired the start mutex.
+[Wed Mar 14 09:14:03 2018] [notice] Child 688: Starting 64 worker threads.
+[Wed Mar 14 09:14:03 2018] [notice] Child 688: Starting thread to listen on port 80.
+[Wed Mar 14 09:46:57 2018] [error] [client 192.168.1.27] File does not exist: C:/MAMP/htdocs/HNAP1
+[Wed Mar 14 09:47:45 2018] [error] [client 192.168.1.27] File does not exist: C:/MAMP/htdocs/language
+[Wed Mar 14 09:47:46 2018] [error] [client 192.168.1.27] File does not exist: C:/MAMP/htdocs/language
+[Wed Mar 14 09:47:46 2018] [error] [client 192.168.1.27] File does not exist: C:/MAMP/htdocs/system.ini
+[Wed Mar 14 10:53:19 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/
+[Wed Mar 14 10:53:39 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Mar 14 10:53:40 2018] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Mar 14 10:53:40 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Mar 14 10:53:40 2018] [notice] Digest: done
+[Wed Mar 14 10:53:41 2018] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2e mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.1.7 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Wed Mar 14 10:53:41 2018] [notice] Server built: May  6 2016 10:19:53
+[Wed Mar 14 10:53:42 2018] [notice] Parent: Created child process 4964
+[Wed Mar 14 10:53:49 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Mar 14 10:53:50 2018] [notice] Digest: generating secret for digest authentication ...
+[Wed Mar 14 10:53:50 2018] [notice] Digest: done
+[Wed Mar 14 10:53:51 2018] [notice] Child 4964: Child process is running
+[Wed Mar 14 10:53:58 2018] [notice] Child 4964: Acquired the start mutex.
+[Wed Mar 14 10:53:58 2018] [notice] Child 4964: Starting 64 worker threads.
+[Wed Mar 14 10:53:58 2018] [notice] Child 4964: Starting thread to listen on port 80.
+[Wed Mar 14 14:23:19 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/blog/
+[Wed Mar 14 14:34:11 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/nav-menus.php
+[Wed Mar 14 14:35:35 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/nav-menus.php
+[Wed Mar 14 14:39:42 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/nav-menus.php
+[Wed Mar 14 14:39:55 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/nav-menus.php
+[Thu Mar 15 09:22:39 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Mar 15 09:22:40 2018] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 15 09:22:40 2018] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 15 09:22:40 2018] [notice] Digest: done
+[Thu Mar 15 09:22:43 2018] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2e mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.1.7 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Thu Mar 15 09:22:43 2018] [notice] Server built: May  6 2016 10:19:53
+[Thu Mar 15 09:22:43 2018] [notice] Parent: Created child process 5004
+[Thu Mar 15 09:22:46 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Mar 15 09:22:47 2018] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 15 09:22:47 2018] [notice] Digest: done
+[Thu Mar 15 09:22:48 2018] [notice] Child 5004: Child process is running
+[Thu Mar 15 09:22:50 2018] [notice] Child 5004: Acquired the start mutex.
+[Thu Mar 15 09:22:50 2018] [notice] Child 5004: Starting 64 worker threads.
+[Thu Mar 15 09:22:50 2018] [notice] Child 5004: Starting thread to listen on port 80.
+[Thu Mar 15 09:23:35 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Mar 15 09:23:36 2018] [warn] pid file C:/MAMP/bin/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 15 09:23:36 2018] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 15 09:23:36 2018] [notice] Digest: done
+[Thu Mar 15 09:23:37 2018] [notice] Apache/2.2.31 (Win32) DAV/2 mod_ssl/2.2.31 OpenSSL/1.0.2e mod_fcgid/2.3.9 mod_wsgi/3.4 Python/2.7.6 PHP/7.1.7 mod_perl/2.0.8 Perl/v5.16.3 configured -- resuming normal operations
+[Thu Mar 15 09:23:37 2018] [notice] Server built: May  6 2016 10:19:53
+[Thu Mar 15 09:23:37 2018] [notice] Parent: Created child process 3752
+[Thu Mar 15 09:23:37 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Mar 15 09:23:38 2018] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 15 09:23:38 2018] [notice] Digest: done
