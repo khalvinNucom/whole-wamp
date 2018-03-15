@@ -224,3 +224,15 @@
 [Thu Mar 15 09:23:37 2018] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
 [Thu Mar 15 09:23:38 2018] [notice] Digest: generating secret for digest authentication ...
 [Thu Mar 15 09:23:38 2018] [notice] Digest: done
+[Thu Mar 15 09:23:42 2018] [notice] Child 3752: Child process is running
+[Thu Mar 15 09:23:42 2018] [notice] Child 3752: Acquired the start mutex.
+[Thu Mar 15 09:23:42 2018] [notice] Child 3752: Starting 64 worker threads.
+[Thu Mar 15 09:23:42 2018] [notice] Child 3752: Starting thread to listen on port 80.
+[Thu Mar 15 09:25:11 2018] [error] [client 192.168.1.14] File does not exist: C:/MAMP/htdocs/HNAP1
+[Thu Mar 15 09:25:46 2018] [error] [client 192.168.1.14] File does not exist: C:/MAMP/htdocs/language
+[Thu Mar 15 09:25:47 2018] [error] [client 192.168.1.14] File does not exist: C:/MAMP/htdocs/language
+[Thu Mar 15 09:25:47 2018] [error] [client 192.168.1.14] File does not exist: C:/MAMP/htdocs/system.ini
+[Thu Mar 15 09:41:44 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%2Fatw%2Fwp-admin%2F&reauth=1
+[Thu Mar 15 09:50:10 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/post.php?post=129&action=edit
+[Thu Mar 15 10:36:04 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/post.php?post=129&action=edit
+[Thu Mar 15 11:33:07 2018] [error] [client 127.0.0.1] File does not exist: C:/MAMP/htdocs/favicon.ico, referer: http://localhost/atw/wp-admin/plugin-install.php?s=share+&tab=search&type=term
